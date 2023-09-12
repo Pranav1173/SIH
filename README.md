@@ -1,2 +1,2 @@
 # SIH
-DataSet and Code
+DataSet and Code for Recognition of Plants as 'Medicinal' or 'Non-Medicinal' plant.
